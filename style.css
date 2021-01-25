@@ -1,0 +1,78 @@
+/* design the background image */
+body {
+    background-image: url("lake2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+/* design the background image */
+
+form {
+    margin: auto; /* auto arrange left-right margin  */
+    margin-top: 100px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: 425px;
+}
+
+img {
+    margin-top: -30px;
+}
+
+form h2 {
+    color: #1a75ff;
+}
+
+hr {
+    width: 70%;
+}
+span {
+    margin-top: 20px;
+}
+.account-input {
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+}
+
+.password-input {
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+}
+
+form .btn {
+    margin-top: 20px;
+    width: 250px;
+    /* height: 35px; */
+    /* padding: auto; */
+    border-radius: 20px;
+}
+
+form .or {
+    text-align: center;
+    margin: auto;
+    margin-top: -29px;
+    width: 30px;
+    background-color: white;
+}
+
+form .login {
+    background-color: #1ab6ff;
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+.signin {
+    margin-top: 20px;
+}
